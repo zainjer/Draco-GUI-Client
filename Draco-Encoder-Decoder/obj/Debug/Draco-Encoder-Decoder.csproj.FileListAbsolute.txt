@@ -1,0 +1,15 @@
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\bin\Debug\Draco-Encoder-Decoder.exe.config
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\bin\Debug\Draco-Encoder-Decoder.exe
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\bin\Debug\Draco-Encoder-Decoder.pdb
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\obj\Debug\Draco-Encoder-Decoder.csprojAssemblyReference.cache
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\obj\Debug\Draco_Encoder_Decoder.Form1.resources
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\obj\Debug\Draco_Encoder_Decoder.Properties.Resources.resources
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\obj\Debug\Draco-Encoder-Decoder.csproj.GenerateResource.cache
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\obj\Debug\Draco-Encoder-Decoder.csproj.CoreCompileInputs.cache
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\obj\Debug\Draco-Encoder-Decoder.exe
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\obj\Debug\Draco-Encoder-Decoder.pdb
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\bin\Debug\draco.lib
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\bin\Debug\dracodec.lib
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\bin\Debug\dracoenc.lib
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\bin\Debug\draco_decoder.exe
+D:\Code Projects\Draco3D\Draco3D\Draco-Encoder-Decoder\bin\Debug\draco_encoder.exe
